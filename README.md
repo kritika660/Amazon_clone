@@ -31,11 +31,15 @@ It helps in understanding **HTML structure**, **CSS styling**, and **layout tech
 
 ## 📂 Project Structure
 amazon-clone/
+
 │
+
 ├── index.html
+
 ├── style.css
-└── assets/
+
 └── images/
+
 
 ---
 
